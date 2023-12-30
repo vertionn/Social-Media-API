@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# environment variables file ( .env )
+*.env
+
+# Ignore IDE specific files
+.idea/
